@@ -22,4 +22,5 @@ En el archivo "dice_roller.dart", se añadieron dos nuevos valores para obtener 
 El código relacionado con las imágenes fue ajustado para que al presionar un solo botón, todas las imágenes cambien simultáneamente.
 
 En el componente "gradient_container", se realizaron modificaciones en la disposición de la imagen para centrarla y ubicar las tres imágenes en la misma fila.
-En e
+
+Este código se realizó con base a el código del Profesor Rafael titulado 'flutter-roll_dice-main'.
